@@ -1,11 +1,18 @@
 {
-  "main.js": "/potfolio/static/js/main.618b3977.chunk.js",
-  "main.js.map": "/potfolio/static/js/main.618b3977.chunk.js.map",
-  "static/js/1.0cdd6f18.chunk.js": "/potfolio/static/js/1.0cdd6f18.chunk.js",
-  "static/js/1.0cdd6f18.chunk.js.map": "/potfolio/static/js/1.0cdd6f18.chunk.js.map",
+  "main.css": "/potfolio/static/css/main.7f5e2f03.chunk.css",
+  "main.js": "/potfolio/static/js/main.676d3be2.chunk.js",
+  "main.js.map": "/potfolio/static/js/main.676d3be2.chunk.js.map",
+  "static/js/1.c1105e8c.chunk.js": "/potfolio/static/js/1.c1105e8c.chunk.js",
+  "static/js/1.c1105e8c.chunk.js.map": "/potfolio/static/js/1.c1105e8c.chunk.js.map",
   "runtime~main.js": "/potfolio/static/js/runtime~main.55ea43d5.js",
   "runtime~main.js.map": "/potfolio/static/js/runtime~main.55ea43d5.js.map",
+  "static/media/stylesheet.css": "/potfolio/static/media/SFProText-Semibold.a8e84b27.eot",
+  "static/media/bg.jpg": "/potfolio/static/media/bg.939ecb2d.jpg",
+  "static/media/vahagn-am.pdf": "/potfolio/static/media/vahagn-am.74276d96.pdf",
+  "static/media/vahagn-en.pdf": "/potfolio/static/media/vahagn-en.e8f7a2ae.pdf",
+  "static/media/men.png": "/potfolio/static/media/men.dd2dc902.png",
+  "static/css/main.7f5e2f03.chunk.css.map": "/potfolio/static/css/main.7f5e2f03.chunk.css.map",
   "index.html": "/potfolio/index.html",
-  "precache-manifest.f92eff463f964cd7b252b7c03cc4ea90.js": "/potfolio/precache-manifest.f92eff463f964cd7b252b7c03cc4ea90.js",
+  "precache-manifest.468351fea848434155698612fdc19d09.js": "/potfolio/precache-manifest.468351fea848434155698612fdc19d09.js",
   "service-worker.js": "/potfolio/service-worker.js"
 }
