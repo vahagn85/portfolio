@@ -1,0 +1,471 @@
+/*----------------- Global style START -----------*/
+body {
+    font-family: 'SF Pro Text', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #0D1114;
+}
+
+/* width */
+body::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+body::-webkit-scrollbar-track {
+    background: #8A8A8A;
+}
+
+/* Handle */
+body::-webkit-scrollbar-thumb {
+    background: #0AB974;
+}
+
+/* Handle on hover */
+body::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.font-normal {
+    font-family: 'SF Pro Text', sans-serif;
+}
+
+.font-bold {
+    font-family: 'SF Pro Text Bold', sans-serif;
+}
+.txt-cl-gray{
+    color: #8A8A8A;
+}
+.txt-cl-green{
+    color: #0AB974;
+}
+h2{
+    font-family: 'SF Pro Text Bold', sans-serif;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 32px;
+    text-transform: uppercase;
+    line-height: 1;
+}
+/*----------------- Global style END -----------*/
+.main_content{
+    display: flex;
+}
+.main_content .left_content{
+    flex: 0 0 calc(100% - 658px);
+    max-width: calc(100% - 658px);
+}
+.main_content .right_content{
+    flex: 0 0 658px;
+    max-width: 658px;
+}
+/*------------------dev START---------------*/
+.dev_wrapper{
+    position: fixed;
+    right: 0;
+    height: 100%;
+    max-width: 658px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.dev_wrapper .dev_info{
+    padding: 0 114px 105px 62px;
+    text-align: right;
+    margin-top: auto;
+}
+.dev_wrapper .dev_info.opened{
+    padding-bottom: 35px;
+}
+.dev_wrapper .dev_info h1{
+font-size: 75px;
+    margin-bottom: 12px;
+    margin-top: 5px;
+}
+.dev_wrapper .dev_info .dev_prof{
+    font-size: 28px;
+    color: #0AC379;
+    margin-bottom: 44px;
+}
+.dev_wrapper .dev_info .dev_btn{
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    font-size: 20px;
+    width: 100%;
+    text-decoration: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.dev_wrapper .dev_info .dev_contact_cv{
+    display: flex;
+    justify-content: flex-end;
+}
+.dev_wrapper .dev_info .dev_contact_cv .btn_contact{
+    background-color: #FFFFFF;
+    max-width: 226px;
+    margin-right: 10px;
+}
+.dev_wrapper .dev_info .dev_contact_cv .btn_cv{
+    background-color: #0AC379;
+    max-width: 244px;
+}
+.dev_wrapper .dev_info .dev_contact_cv .btn_cv >span{
+    margin-right: 10px;
+}
+
+.dev_wrapper .dev_contact_info{
+    background-color: #000000;
+}
+.dev_wrapper .dev_contact_info{
+    padding: 60px 10px;
+    text-align: center;
+}
+.dev_wrapper .dev_contact_info a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.dev_wrapper .dev_contact_info .dev_contact_single:not(:last-of-type){
+    margin-bottom: 18px;
+}
+/*------------------dev END-----------------*/
+.main_info{
+    padding-left: 202px;
+    padding-right: 90px;
+    margin-top: 200px;
+    margin-bottom: 104px;
+}
+.main_info .text_info{
+    line-height: 25px;
+    font-size: 18px;
+    color: #8A8A8A;
+    margin: 0;
+}
+.edu_work_single{
+    border-left: 2px solid #0AB974;
+    line-height: 24px;
+    font-size: 20px;
+    padding-left: 8px;
+    margin-bottom: 28px;
+}
+.edu_work_wrapper.edu_wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.edu_work_wrapper.edu_wrap .edu_work_single:not(:last-of-type){
+    margin-right: 22px;
+}
+.edu_work_info{
+    color: #9B9B9B;
+    margin: 0;
+}
+.works_wrap .edu_work_single{
+    margin-bottom: 28px;
+}
+.works_wrap .edu_work_single .text_info{
+    padding-top: 25px;
+}
+.works_wrapper h2{
+    margin-top: 12px;
+}
+/*------------------ portfolio START-----------------*/
+.portfolio_wrap{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.portfolio_wrap .col_6{
+    width: 100%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 30px;
+}
+.portfolio_wrap .portfolio_single{
+    color: #FFFFFF;
+    height: 234px;
+    position: relative;
+    display: block;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.portfolio_wrap .portfolio_inner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.5s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    cursor: pointer;
+}
+.portfolio_wrap .portfolio_single:hover .portfolio_inner{
+    opacity: 1;
+    visibility: visible;
+}
+.portfolio_wrap .portfolio_single:after{
+    content: '';
+    background-color: #0AB974;
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    opacity: 0;
+}
+.portfolio_wrap .portfolio_single:hover:after{
+  opacity: .9;
+    transition: 0.5s ease;
+}
+.portfolio_wrap .portfolio_inner .portfolio_web_logo{
+    margin-right: 15px;
+}
+.portfolio_wrap .portfolio_web_logo{
+    width: 35px;
+    height: 35px;
+    object-fit: contain;
+}
+.portfolio_wrap .portfolio_web_name{
+    font-size: 28px;
+}
+.portfolio_wrap .portfolio_web_photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: .7;
+}
+/*------------------ portfolio END-----------------*/
+
+/*------------------ skills START-----------------*/
+.skills_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.skills_wrapper h3{
+    font-family: 'SF Pro Text Bold', sans-serif;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 35px;
+    line-height: 1;
+    display: flex;
+    flex-wrap: wrap;
+}
+.skills_wrapper h3 .skills_wrapper_second_title{
+    color: #0AC379;
+    letter-spacing: 2px;
+}
+.skills_wrapper .skills_wrapper_title{
+    padding-right: 7px;
+}
+.skills_wrapper .skills_left{
+    width: 100%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.skills_wrapper .skills_right{
+    width: 100%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+/*------------------ portfolio END-----------------*/
+/*------------------ skills Start-----------------*/
+.skills_wrapper .skills_lang{
+    font-size: 16px;
+}
+.skills_lang_single{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 8px;
+    border-bottom: 1px solid #505050;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+    padding-bottom: 12px;
+}
+.skills_lang_single .know{
+    color: #0AC379;
+}
+.skills_lang h3{
+    margin-top: 47px;
+}
+/*------------------ skills END-----------------*/
+/*---------------------------
+            RESPONSIVE
+-----------------------------*/
+@media (max-width: 1600px) {
+    .main_info{
+        padding-left: 114px;
+        padding-right: 40px;
+    }
+    .dev_wrapper .dev_info{
+        padding-left: 0;
+        padding-bottom: 60px;
+    }
+    .dev_wrapper{
+        max-width: 600px;
+    }
+    .main_content .right_content {
+        flex: 0 0 600px;
+        max-width: 600px;
+    }
+    .main_content .left_content {
+        flex-basis: calc(100% - 600px);
+        max-width: calc(100% - 600px);
+    }
+    .portfolio_wrap .portfolio_web_name{
+        font-size: 22px;
+    }
+
+}
+@media (max-width: 1400px) {
+    .skills_wrapper .skills_left,.skills_wrapper .skills_right{
+        flex: auto;
+        max-width: 100%;
+    }
+}
+@media (max-width: 1200px) {
+    .main_info{
+        padding-left: 50px;
+    }
+    .dev_wrapper .dev_info{
+        padding-right: 50px;
+    }
+}
+@media (min-width: 993px) and (max-width: 1300px) {
+    .portfolio_wrap .col_6{
+        flex: auto;
+        max-width: 100%;
+    }
+}
+@media (max-width: 992px) {
+    .main_content{
+        flex-direction: column;
+    }
+    .main_content .left_content {
+        flex: 100%;
+        max-width: 100%;
+        order: 2;
+    }
+    .main_content .right_content {
+        flex: 100%;
+        max-width: 100%;
+        order: 1;
+        height: 100vh;
+    }
+    .dev_wrapper {
+        position: static;
+        max-width: 100%;
+
+    }
+    .main_info{
+        margin-top: 58px;
+        padding: 0 28px;
+        margin-bottom: 0;
+    }
+    .main_info .text_info{
+        font-size: 16px;
+    }
+    h2{
+        margin-top: 30px;
+        margin-bottom: 22px;
+    }
+    .skills_wrapper h3{
+        margin-top: 30px;
+        margin-bottom: 22px;
+    }
+
+    .dev_wrapper .dev_info h1{
+        font-size: 60px;
+    }
+    .dev_wrapper .dev_info{
+        padding: 0 28px 46px 28px;
+    }
+    .dev_wrapper .dev_info .dev_prof{
+        margin-bottom: 30px;
+        font-size: 22px;
+    }
+    .dev_wrapper .dev_info .dev_btn{
+        font-size: 16px;
+    }
+    .dev_wrapper .dev_info .dev_contact_cv .btn_cv{
+        max-width: 220px;
+    }
+    .dev_wrapper .dev_info .dev_contact_cv .btn_contact{
+        max-width: 210px;
+    }
+    .dev_wrapper .dev_contact_info{
+        padding: 35px 10px;
+        font-size: 16px;
+    }
+    .dev_wrapper .dev_contact_info .dev_contact_single:not(:last-of-type){
+        margin-bottom: 10px;
+    }
+    .portfolio_wrap .portfolio_web_name{
+        font-size: 18px;
+    }
+
+}
+@media (max-width: 575px) {
+    .dev_wrapper .dev_info h1{
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    .portfolio_wrap .col_6{
+        flex: auto;
+        max-width: 100%;
+    }
+    .dev_wrapper .dev_info .dev_prof{
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+    .dev_wrapper .dev_info .dev_btn{
+        font-size: 12px;
+    }
+    .dev_wrapper .dev_info .dev_contact_cv .btn_cv{
+        max-width: 164px;
+    }
+    .dev_wrapper .dev_info .dev_contact_cv .btn_contact{
+        max-width: 132px;
+    }
+    .dev_wrapper .dev_info .dev_btn{
+        height: 31px;
+    }
+    .dev_wrapper .dev_info .dev_contact_cv .btn_cv img, .dev_wrapper .dev_info .dev_contact_cv .btn_contact img{
+        width: 16px;
+    }
+    .dev_wrapper .dev_info.opened{
+        padding-bottom: 20px;
+    }
+    .dev_wrapper .dev_contact_info{
+        padding: 30px 10px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 424px) {
+    .dev_wrapper .dev_info .dev_contact_cv .btn_cv{
+        max-width: 50%;
+    }
+    .dev_wrapper .dev_info .dev_contact_cv .btn_contact{
+        max-width: 50%;
+    }
+}

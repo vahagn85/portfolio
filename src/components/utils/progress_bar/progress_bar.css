@@ -1,0 +1,45 @@
+/*------------------ progress bar START-----------------*/
+.progress_bar .label{
+    font-size: 16px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 12px;
+    margin-top: 15px;
+}
+.progress_bar .progress_line{
+    background-color: #505050;
+    height: 1px;
+    position: relative;
+}
+.progress_bar .progress_bg{
+    position: absolute;
+    content: '';
+    display: block;
+    width: 87%;
+    height: 3px;
+    background: #06312a;
+    background: -moz-linear-gradient(left, #06312a 0%, #0ac379 100%);
+    background: -webkit-linear-gradient(left, #06312a 0%,#0ac379 100%);
+    background: linear-gradient(to right, #06312a 0%,#0ac379 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#06312a', endColorstr='#0ac379',GradientType=1 );
+    transform: translateY(-50%);
+}
+.progress_bar .progress_percent{
+    color: #0AC379;
+    position: absolute;
+    top: -25px;
+    font-size: 14px;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+.progress_bar .progress_percent:after{
+    content: '';
+    width: 12px;
+    height: 12px;
+    background: #0AC379;
+    display: block;
+    margin: 3px auto 0;
+    border-radius: 50%;
+}
+/*------------------ progress bar END-----------------*/

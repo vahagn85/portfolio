@@ -1,0 +1,296 @@
+{
+  "aboutMe": {
+    "en": {
+      "title": "About me",
+      "desc": "I am a conscientious person who works hard and pays attention to details. I am flexible, quick to pick up new skills and eager to learn from others. I also have lots of ideas and enthusiasm. Moreover, I have an ability to grow with my job, handle responsibility and build positive relationships with my work colleagues."
+    },
+    "am": {
+      "title": "Իմ Մասին",
+      "desc": "Ես բարեխիղճ և աշխատասեր եմ, ուշադրություն եմ դարձնում մանրուքներին: Ես ճկուն եմ, արագ եմ յուրացնում նոր հմտություններ և պատրաստ եմ սովորել ուրիշներից: Ես ունեմ նոր գաղափարներ և էնտուզիազմով եմ վերաբերվում դրանց ի կատար ածմանը: Ավելին, ես ունակ եմ աճել իմ աշխատանքում, լինել պատասխանատու և լավ հարաբերություններ հաստատել իմ գործընկերների հետ:"
+    }
+  },
+  "works": {
+    "en": {
+      "title": "Works",
+      "work": [
+        {
+          "id": 1,
+          "title": "2009 - 2014",
+          "info": "Orange Armenia - cashier",
+          "content": ""
+        },
+        {
+          "id": 2,
+          "title": "2014 - 2015",
+          "info": "Tuga Company - SEO",
+          "content": "SEO(Search Engine Optimization), SMM(Social Media Marketing)"
+        },
+        {
+          "id": 3,
+          "title": "2015 - 2017",
+          "info": "Armspider - SEO and Web Developer",
+          "content": "SEO(Search Engine Optimization), SMM(Social Media Marketing), HTML5, CSS3, Bootstrap 3 WordPress, PHP, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro"
+        },
+        {
+          "id": 4,
+          "title": "2017 - ",
+          "info": "Hook - Frontend Developer",
+          "content": "React JS, Pure JS, jQuery, HTML5, CSS3, Bootstrap 4, SASS, Webpack, Material-UI, Git"
+        }
+      ]
+    },
+    "am": {
+      "title": "Աշխատանք",
+      "work": [
+        {
+          "id": 1,
+          "title": "2009 - 2014",
+          "info": "Օրանժ Արմենիա - գանձապահ",
+          "content": ""
+        },
+        {
+          "id": 2,
+          "title": "2014 - 2015",
+          "info": "Tuga Company - SEO",
+          "content": "SEO(Search Engine Optimization), SMM(Social Media Marketing)"
+        },
+        {
+          "id": 3,
+          "title": "2015 - 2017",
+          "info": "Armspider - SEO and Web Developer",
+          "content": "SEO(Search Engine Optimization), SMM(Social Media Marketing), HTML5, CSS3, Bootstrap 3 WordPress, PHP, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro"
+        },
+        {
+          "id": 4,
+          "title": "2017 - ",
+          "info": "Hook - Frontend Developer",
+          "content": "React JS, Pure JS, jQuery, HTML5, CSS3, Bootstrap 4, SASS, Webpack, Material-UI, Git"
+        }
+      ]
+    }
+  },
+  "education": {
+    "en": {
+      "title": "Education",
+      "edu": [
+        {
+          "id": 1,
+          "title": "1992 - 2002",
+          "info": "Vanadzor 9 school"
+        },
+        {
+          "id": 2,
+          "title": "2003 - 2009",
+          "info": "YSU - Mathematics and Mechanic"
+        }
+      ]
+    },
+    "am": {
+      "title": "Կրթություն",
+      "edu": [
+        {
+          "id": 1,
+          "title": "1992 - 2002",
+          "info": "Վանաձորի թիվ 9 դպորց"
+        },
+        {
+          "id": 2,
+          "title": "2003 - 2009",
+          "info": "ԵՊՀ - Մաթեմատիկա և Մեխանիկա"
+        }
+      ]
+    }
+  },
+  "portfolio": {
+    "en": {
+      "title": "Portfolio"
+    },
+    "am": {
+      "title": "Պորտֆոլիո"
+    },
+    "web": [
+      {
+        "id": 1,
+        "photo": "exco",
+        "name": "Exco",
+        "url": "http://exco.am/"
+      },
+      {
+        "id": 2,
+        "photo": "armfc",
+        "name": "Arm National Team",
+        "url": "https://lori-fc.firebaseapp.com/"
+      },
+      {
+        "id": 3,
+        "photo": "schoolofwinners",
+        "name": "School of winners",
+        "url": "https://schoolofwinners.am/ru/"
+      },
+      {
+        "id": 4,
+        "photo": "vatama",
+        "name": "VaTaMa",
+        "url": "http://vatama.ru/"
+      }
+    ]
+  },
+  "development": {
+    "en": {
+      "firstName": "Vahagn",
+      "lastName": "Ulikhanyan",
+      "dev": "Frontend Developer",
+      "cv": "Download CV",
+      "contactMe": "Contact me",
+      "tel": "Phone number: 055 77 77 05",
+      "email": "Emile",
+      "social": "Social"
+    },
+    "am": {
+      "firstName": "Վահագն",
+      "lastName": "Ուլիխանյան",
+      "dev": "Frontend Ծրագրավորող",
+      "cv": "Բեռնել CV",
+      "contactMe": "Իմ Կոնտակտները",
+      "tel": "Հեռ․: 055 77 77 05",
+      "email": "Է-փոստ",
+      "social": "Սոց․"
+    }
+  },
+  "skills": {
+    "en": {
+      "title": "Skills",
+      "devTitle": "Development",
+      "desTitle":"Design",
+      "langTitle":"Language"
+    },
+    "am": {
+      "title": "Հմտություններ",
+      "devTitle": "Ծրագրավորում",
+      "desTitle":"Դիզայն",
+      "langTitle":"Լեզու"
+    }
+  },
+  "lang":{
+    "en":{
+      "lng":[
+        {
+          "id":"1",
+          "title":"Armenian",
+          "know":"Native"
+        },
+        {
+          "id":"2",
+          "title":"Russian",
+          "know":"Advanced"
+        },
+        {
+          "id":"3",
+          "title":"English",
+          "know":"Intermediate"
+        }
+      ]
+    },
+    "am":{
+      "lng":[
+        {
+          "id":"1",
+          "title":"Հայերեն",
+          "know":"Մայրենի"
+        },
+        {
+          "id":"2",
+          "title":"Գերազանց",
+          "know":"Լավ"
+        },
+        {
+          "id":"3",
+          "title":"Անգլերեն",
+          "know":"Միջին"
+        }
+      ]
+    }
+  },
+  "skilldev":[
+    {
+      "id": 1,
+      "label": "html5",
+      "startpercent": 0,
+      "endpercent": 87
+    },
+    {
+      "id": 2,
+      "label": "css3",
+      "startpercent": 0,
+      "endpercent": 75
+    },
+    {
+      "id": 3,
+      "label": "wordpress",
+      "startpercent": 0,
+      "endpercent": 45
+    },
+    {
+      "id": 4,
+      "label": "bootstrap",
+      "startpercent": 0,
+      "endpercent": 85
+    },
+    {
+      "id": 5,
+      "label": "react js",
+      "startpercent": 0,
+      "endpercent": 53
+    },
+    {
+      "id": 6,
+      "label": "sass",
+      "startpercent": 0,
+      "endpercent": 82
+    },
+    {
+      "id": 7,
+      "label": "js",
+      "startpercent": 0,
+      "endpercent": 62
+    },
+    {
+      "id": 8,
+      "label": "git",
+      "startpercent": 0,
+      "endpercent": 26
+    },
+    {
+      "id": 9,
+      "label": "Webpack",
+      "startpercent": 0,
+      "endpercent": 42
+    }
+  ],
+  "skilldesign":[
+    {
+      "id": 1,
+      "label": "Photoshop",
+      "startpercent": 0,
+      "endpercent": 92
+    },
+    {
+      "id": 2,
+      "label": "Iliustrator",
+      "startpercent": 0,
+      "endpercent": 73
+    },
+    {
+      "id": 3,
+      "label": "XD",
+      "startpercent": 0,
+      "endpercent": 50
+    },
+    {
+      "id": 4,
+      "label": "Premier pro",
+      "startpercent": 0,
+      "endpercent": 55
+    }
+  ]
+}
