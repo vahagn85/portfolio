@@ -1,15 +1,15 @@
 {
   "main.css": "/portfolio/static/css/main.6ee9cdbf.chunk.css",
-  "main.js": "/portfolio/static/js/main.a0c0b6cb.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.a0c0b6cb.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.22025d83.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.22025d83.chunk.js.map",
   "static/js/1.96eae72c.chunk.js": "/portfolio/static/js/1.96eae72c.chunk.js",
   "static/js/1.96eae72c.chunk.js.map": "/portfolio/static/js/1.96eae72c.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
   "static/media/schoolofwinners-web.jpg": "/portfolio/static/media/schoolofwinners-web.60bb9130.jpg",
   "static/media/bg.jpg": "/portfolio/static/media/bg.939ecb2d.jpg",
-  "static/media/vahagn-am.pdf": "/portfolio/static/media/vahagn-am.ec241192.pdf",
-  "static/media/vahagn-en.pdf": "/portfolio/static/media/vahagn-en.8c9537d1.pdf",
+  "static/media/vahagn-am.pdf": "/portfolio/static/media/vahagn-am.becbcb21.pdf",
+  "static/media/vahagn-en.pdf": "/portfolio/static/media/vahagn-en.b52200f9.pdf",
   "static/media/stylesheet.css": "/portfolio/static/media/SFProText-Semibold.f1e25776.ttf",
   "static/media/armfc-web.jpg": "/portfolio/static/media/armfc-web.b569fb5e.jpg",
   "static/media/exco-web.jpg": "/portfolio/static/media/exco-web.624b76fe.jpg",
@@ -19,6 +19,6 @@
   "static/media/worldeagles-web.jpg": "/portfolio/static/media/worldeagles-web.fc9999b8.jpg",
   "static/css/main.6ee9cdbf.chunk.css.map": "/portfolio/static/css/main.6ee9cdbf.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.26e111eb851e9d3ecd991b3e68a9c21b.js": "/portfolio/precache-manifest.26e111eb851e9d3ecd991b3e68a9c21b.js",
+  "precache-manifest.84f31d9076452b951aaff587bbfdf704.js": "/portfolio/precache-manifest.84f31d9076452b951aaff587bbfdf704.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }

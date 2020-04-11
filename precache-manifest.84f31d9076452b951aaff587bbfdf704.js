@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "211b9d5260f9bb835f5635c688c92e6e",
-    "url": "/portfolio/static/media/SFProText-Semibold.211b9d52.woff2"
+    "revision": "53adde59ed16e5b80d3dcc1a6a71c2cd",
+    "url": "/portfolio/static/media/SFProText-Regular.53adde59.eot"
   },
   {
-    "revision": "a0c0b6cb2b5d408ddbb9",
+    "revision": "22025d83d2f153ee4f0b",
     "url": "/portfolio/static/css/main.6ee9cdbf.chunk.css"
   },
   {
@@ -24,28 +24,28 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/vahagn-photo.fe04134d.jpg"
   },
   {
-    "revision": "ec2411921b8004096d626935d65510ad",
-    "url": "/portfolio/static/media/vahagn-am.ec241192.pdf"
+    "revision": "becbcb214df675da40093a7b15a8c3c7",
+    "url": "/portfolio/static/media/vahagn-am.becbcb21.pdf"
   },
   {
-    "revision": "8c9537d14056d60e20f8e9ae551282a8",
-    "url": "/portfolio/static/media/vahagn-en.8c9537d1.pdf"
+    "revision": "b52200f985b147f71718fced8ffe9e15",
+    "url": "/portfolio/static/media/vahagn-en.b52200f9.pdf"
   },
   {
     "revision": "c7e2854dfcedf02e21c78e34bd7a7141",
     "url": "/portfolio/static/media/SFProText-Regular.c7e2854d.woff2"
   },
   {
+    "revision": "211b9d5260f9bb835f5635c688c92e6e",
+    "url": "/portfolio/static/media/SFProText-Semibold.211b9d52.woff2"
+  },
+  {
     "revision": "06b45761bfabccf92c66efc6e3d6fbec",
     "url": "/portfolio/static/media/SFProText-Regular.06b45761.woff"
   },
   {
-    "revision": "53adde59ed16e5b80d3dcc1a6a71c2cd",
-    "url": "/portfolio/static/media/SFProText-Regular.53adde59.eot"
-  },
-  {
-    "revision": "a0c0b6cb2b5d408ddbb9",
-    "url": "/portfolio/static/js/main.a0c0b6cb.chunk.js"
+    "revision": "22025d83d2f153ee4f0b",
+    "url": "/portfolio/static/js/main.22025d83.chunk.js"
   },
   {
     "revision": "f9ef29896b27001f1dbaa00acbd5408c",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/worldeagles-web.fc9999b8.jpg"
   },
   {
-    "revision": "6f661955afa3b231e1d4185131e3e898",
+    "revision": "f9d1f4019b35f0df022838ab41fb3ee6",
     "url": "/portfolio/index.html"
   }
 ];
