@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "c7e2854dfcedf02e21c78e34bd7a7141",
-    "url": "/potfolio/static/media/SFProText-Regular.c7e2854d.woff2"
+    "revision": "06b45761bfabccf92c66efc6e3d6fbec",
+    "url": "/potfolio/static/media/SFProText-Regular.06b45761.woff"
   },
   {
     "revision": "cf96b254e0e3f9b792e0",
@@ -36,12 +36,20 @@ self.__precacheManifest = [
     "url": "/potfolio/static/js/main.cf96b254.chunk.js"
   },
   {
-    "revision": "06b45761bfabccf92c66efc6e3d6fbec",
-    "url": "/potfolio/static/media/SFProText-Regular.06b45761.woff"
+    "revision": "c7e2854dfcedf02e21c78e34bd7a7141",
+    "url": "/potfolio/static/media/SFProText-Regular.c7e2854d.woff2"
   },
   {
     "revision": "53adde59ed16e5b80d3dcc1a6a71c2cd",
     "url": "/potfolio/static/media/SFProText-Regular.53adde59.eot"
+  },
+  {
+    "revision": "e1cf4650f7cbd4b7c94117dd07478082",
+    "url": "/potfolio/static/media/SFProText-Regular.e1cf4650.ttf"
+  },
+  {
+    "revision": "f9ef29896b27001f1dbaa00acbd5408c",
+    "url": "/potfolio/static/media/SFProText-Semibold.f9ef2989.woff"
   },
   {
     "revision": "211b9d5260f9bb835f5635c688c92e6e",
@@ -50,14 +58,6 @@ self.__precacheManifest = [
   {
     "revision": "a8e84b27c0b2865df1e8c3de0ade9c1d",
     "url": "/potfolio/static/media/SFProText-Semibold.a8e84b27.eot"
-  },
-  {
-    "revision": "f9ef29896b27001f1dbaa00acbd5408c",
-    "url": "/potfolio/static/media/SFProText-Semibold.f9ef2989.woff"
-  },
-  {
-    "revision": "e1cf4650f7cbd4b7c94117dd07478082",
-    "url": "/potfolio/static/media/SFProText-Regular.e1cf4650.ttf"
   },
   {
     "revision": "f1e257769255afb5fd40f83249826660",
