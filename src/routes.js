@@ -20,7 +20,7 @@ const Routes = () => {
                 <title>Vahagn Ulikhanyan - Portfolio</title>
             </Helmet>
             <Switch>
-                <Route exact path="/" component={Home} />
+                <Route exact path="/potfolio" component={Home} />
                 <Route component={NotFound} />
             </Switch>
         </div>

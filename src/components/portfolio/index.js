@@ -13,7 +13,7 @@ const Portfolio =(props)=> {
                             <Link to={{
                                 pathname:item.url
                             }} className="portfolio_single" target="_blank">
-                                <img src={`/portfolio/${item.photo}-web.jpg`} alt={`${item.name}-web`} className="portfolio_web_photo"/>
+                                <img src={`/${item.photo}-web.jpg`} alt={`${item.name}-web`} className="portfolio_web_photo"/>
                                 <div className="portfolio_inner">
                                     <span className="portfolio_web_name font-bold">{item.name}</span>
                                 </div>
@@ -23,7 +23,7 @@ const Portfolio =(props)=> {
                 })}
             </div>
         )
-    }
+    };
         return (
             <Fade>
                 <div className="portfolio_wrapper">
@@ -39,6 +39,6 @@ const Portfolio =(props)=> {
                 </div>
             </Fade>
         );
-}
+};
 
 export default Portfolio;
