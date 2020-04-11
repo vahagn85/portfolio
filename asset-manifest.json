@@ -1,7 +1,7 @@
 {
   "main.css": "/potfolio/static/css/main.281ca42b.chunk.css",
-  "main.js": "/potfolio/static/js/main.cf96b254.chunk.js",
-  "main.js.map": "/potfolio/static/js/main.cf96b254.chunk.js.map",
+  "main.js": "/potfolio/static/js/main.0fe66010.chunk.js",
+  "main.js.map": "/potfolio/static/js/main.0fe66010.chunk.js.map",
   "static/js/1.c1105e8c.chunk.js": "/potfolio/static/js/1.c1105e8c.chunk.js",
   "static/js/1.c1105e8c.chunk.js.map": "/potfolio/static/js/1.c1105e8c.chunk.js.map",
   "runtime~main.js": "/potfolio/static/js/runtime~main.55ea43d5.js",
@@ -13,6 +13,6 @@
   "static/media/vahagn-photo.jpg": "/potfolio/static/media/vahagn-photo.fe04134d.jpg",
   "static/css/main.281ca42b.chunk.css.map": "/potfolio/static/css/main.281ca42b.chunk.css.map",
   "index.html": "/potfolio/index.html",
-  "precache-manifest.ad49a6aaf9677c279ad1fecd73a93327.js": "/potfolio/precache-manifest.ad49a6aaf9677c279ad1fecd73a93327.js",
+  "precache-manifest.8e332361144c63260344316ae418be1c.js": "/potfolio/precache-manifest.8e332361144c63260344316ae418be1c.js",
   "service-worker.js": "/potfolio/service-worker.js"
 }

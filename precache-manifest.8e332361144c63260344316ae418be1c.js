@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "c7e2854dfcedf02e21c78e34bd7a7141",
-    "url": "/potfolio/static/media/SFProText-Regular.c7e2854d.woff2"
+    "revision": "06b45761bfabccf92c66efc6e3d6fbec",
+    "url": "/potfolio/static/media/SFProText-Regular.06b45761.woff"
   },
   {
-    "revision": "cf96b254e0e3f9b792e0",
+    "revision": "0fe660109a6765cefbd6",
     "url": "/potfolio/static/css/main.281ca42b.chunk.css"
   },
   {
@@ -32,24 +32,24 @@ self.__precacheManifest = [
     "url": "/potfolio/static/media/vahagn-en.e8f7a2ae.pdf"
   },
   {
-    "revision": "cf96b254e0e3f9b792e0",
-    "url": "/potfolio/static/js/main.cf96b254.chunk.js"
+    "revision": "0fe660109a6765cefbd6",
+    "url": "/potfolio/static/js/main.0fe66010.chunk.js"
   },
   {
-    "revision": "06b45761bfabccf92c66efc6e3d6fbec",
-    "url": "/potfolio/static/media/SFProText-Regular.06b45761.woff"
+    "revision": "c7e2854dfcedf02e21c78e34bd7a7141",
+    "url": "/potfolio/static/media/SFProText-Regular.c7e2854d.woff2"
   },
   {
-    "revision": "e1cf4650f7cbd4b7c94117dd07478082",
-    "url": "/potfolio/static/media/SFProText-Regular.e1cf4650.ttf"
+    "revision": "211b9d5260f9bb835f5635c688c92e6e",
+    "url": "/potfolio/static/media/SFProText-Semibold.211b9d52.woff2"
   },
   {
     "revision": "53adde59ed16e5b80d3dcc1a6a71c2cd",
     "url": "/potfolio/static/media/SFProText-Regular.53adde59.eot"
   },
   {
-    "revision": "211b9d5260f9bb835f5635c688c92e6e",
-    "url": "/potfolio/static/media/SFProText-Semibold.211b9d52.woff2"
+    "revision": "e1cf4650f7cbd4b7c94117dd07478082",
+    "url": "/potfolio/static/media/SFProText-Regular.e1cf4650.ttf"
   },
   {
     "revision": "f9ef29896b27001f1dbaa00acbd5408c",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/potfolio/static/media/SFProText-Semibold.f1e25776.ttf"
   },
   {
-    "revision": "e0353c7fafe5c6eb3be3e55e36f50eb3",
+    "revision": "77f0a6484b60a25a94102b8f54a32cda",
     "url": "/potfolio/index.html"
   }
 ];
