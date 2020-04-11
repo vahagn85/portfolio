@@ -111,24 +111,36 @@
     "web": [
       {
         "id": 1,
+        "photo": "worldeagles",
+        "name": "World Eagles",
+        "url": "https://worldeagles.info/"
+      },
+      {
+        "id": 2,
+        "photo": "vecankyun",
+        "name": "Vecankyun",
+        "url": "https://vecankyun.com/"
+      },
+      {
+        "id": 3,
         "photo": "exco",
         "name": "Exco",
         "url": "http://exco.am/"
       },
       {
-        "id": 2,
+        "id": 4,
         "photo": "armfc",
         "name": "Arm National Team",
         "url": "https://lori-fc.firebaseapp.com/"
       },
       {
-        "id": 3,
+        "id": 5,
         "photo": "schoolofwinners",
         "name": "School of winners",
         "url": "https://schoolofwinners.am/ru/"
       },
       {
-        "id": 4,
+        "id": 6,
         "photo": "vatama",
         "name": "VaTaMa",
         "url": "http://vatama.ru/"
@@ -200,7 +212,7 @@
         },
         {
           "id":"2",
-          "title":"Գերազանց",
+          "title":"Ռուսերեն",
           "know":"Լավ"
         },
         {
@@ -226,45 +238,53 @@
     },
     {
       "id": 3,
-      "label": "wordpress",
-      "startpercent": 0,
-      "endpercent": 45
-    },
-    {
-      "id": 4,
-      "label": "bootstrap",
-      "startpercent": 0,
-      "endpercent": 85
-    },
-    {
-      "id": 5,
-      "label": "react js",
-      "startpercent": 0,
-      "endpercent": 53
-    },
-    {
-      "id": 6,
-      "label": "sass",
-      "startpercent": 0,
-      "endpercent": 82
-    },
-    {
-      "id": 7,
       "label": "js",
       "startpercent": 0,
       "endpercent": 62
     },
     {
+      "id": 4,
+      "label": "react js",
+      "startpercent": 0,
+      "endpercent": 69
+    },
+    {
+      "id": 5,
+      "label": "react native",
+      "startpercent": 0,
+      "endpercent": 40
+    },
+    {
+      "id": 6,
+      "label": "Node js",
+      "startpercent": 0,
+      "endpercent": 30
+    },
+    {
+      "id": 7,
+      "label": "bootstrap",
+      "startpercent": 0,
+      "endpercent": 85
+    },
+
+    {
       "id": 8,
+      "label": "sass",
+      "startpercent": 0,
+      "endpercent": 82
+    },
+
+    {
+      "id": 9,
       "label": "git",
       "startpercent": 0,
       "endpercent": 26
     },
     {
-      "id": 9,
+      "id": 10,
       "label": "Webpack",
       "startpercent": 0,
-      "endpercent": 42
+      "endpercent": 38
     }
   ],
   "skilldesign":[
@@ -272,13 +292,13 @@
       "id": 1,
       "label": "Photoshop",
       "startpercent": 0,
-      "endpercent": 92
+      "endpercent": 86
     },
     {
       "id": 2,
       "label": "Iliustrator",
       "startpercent": 0,
-      "endpercent": 73
+      "endpercent": 67
     },
     {
       "id": 3,
@@ -288,6 +308,12 @@
     },
     {
       "id": 4,
+      "label": "Figma",
+      "startpercent": 0,
+      "endpercent": 42
+    },
+    {
+      "id": 5,
       "label": "Premier pro",
       "startpercent": 0,
       "endpercent": 55

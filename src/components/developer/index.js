@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Me from "../../resources/images/men.png";
+import Me from "../../resources/images/vahagn-photo.jpg";
 
 import IconDownload from "../../resources/images/download-icon.png";
 import IconDown from '../../resources/images/arrow-down-icon.png'
@@ -12,12 +12,12 @@ import cvEn from '../../resources/cv/vahagn-en.pdf'
 class Developer extends Component {
     state = {
         open: false
-    }
+    };
     handlerOpen = (ev) => {
         this.setState({
             open: !this.state.open
         })
-    }
+    };
 
     renderContactInfo() {
         return(
@@ -57,8 +57,8 @@ class Developer extends Component {
     }
 
     render() {
-        const {open} = this.state
-        const {data} = this.props
+        const {open} = this.state;
+        const {data} = this.props;
         const contactInfo = open
             ? this.renderContactInfo()
             : null;
