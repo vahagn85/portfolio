@@ -33,7 +33,7 @@
         },
         {
           "id": 4,
-          "title": "2017 - ",
+          "title": "2017 - 2020",
           "info": "Hook - Frontend Developer",
           "content": "React JS, Pure JS, jQuery, HTML5, CSS3, Bootstrap 4, SASS, Webpack, Material-UI, Git"
         }
@@ -62,7 +62,7 @@
         },
         {
           "id": 4,
-          "title": "2017 - ",
+          "title": "2017 - 2020",
           "info": "Hook - Frontend Developer",
           "content": "React JS, Pure JS, jQuery, HTML5, CSS3, Bootstrap 4, SASS, Webpack, Material-UI, Git"
         }
@@ -111,36 +111,48 @@
     "web": [
       {
         "id": 1,
+        "photo": "specbike",
+        "name": "Specbike",
+        "url": "https://specbike.com/"
+      },
+      {
+        "id": 2,
         "photo": "worldeagles",
         "name": "World Eagles",
         "url": "https://worldeagles.info/"
       },
       {
-        "id": 2,
+        "id": 3,
         "photo": "vecankyun",
         "name": "Vecankyun",
         "url": "https://vecankyun.com/"
       },
       {
-        "id": 3,
+        "id": 4,
         "photo": "exco",
         "name": "Exco",
         "url": "http://exco.am/"
       },
       {
-        "id": 4,
+        "id": 5,
+        "photo": "guess-animal-sound",
+        "name": "Guess the animal by sound!",
+        "url": "https://play.google.com/store/apps/details?id=animals.worldeagles.eagles_app&hl=ru&gl=US"
+      },
+      {
+        "id": 6,
         "photo": "armfc",
         "name": "Arm National Team",
         "url": "https://lori-fc.firebaseapp.com/"
       },
       {
-        "id": 5,
+        "id": 7,
         "photo": "schoolofwinners",
         "name": "School of winners",
         "url": "https://schoolofwinners.am/ru/"
       },
       {
-        "id": 6,
+        "id": 8,
         "photo": "vatama",
         "name": "VaTaMa",
         "url": "http://vatama.ru/"
@@ -244,34 +256,33 @@
     },
     {
       "id": 4,
-      "label": "react js",
+      "label": "react",
       "startpercent": 0,
       "endpercent": 69
     },
     {
       "id": 5,
+      "label": "next js",
+      "startpercent": 0,
+      "endpercent": 75
+    },
+    {
+      "id": 6,
       "label": "react native",
       "startpercent": 0,
       "endpercent": 40
     },
     {
-      "id": 6,
+      "id": 7,
       "label": "Node js",
       "startpercent": 0,
       "endpercent": 30
     },
     {
-      "id": 7,
-      "label": "bootstrap",
-      "startpercent": 0,
-      "endpercent": 85
-    },
-
-    {
       "id": 8,
       "label": "sass",
       "startpercent": 0,
-      "endpercent": 82
+      "endpercent": 75
     },
 
     {
