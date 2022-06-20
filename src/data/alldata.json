@@ -36,6 +36,12 @@
           "title": "2017 - 2020",
           "info": "Hook - Frontend Developer",
           "content": "React JS, Pure JS, jQuery, HTML5, CSS3, Bootstrap 4, SASS, Webpack, Material-UI, Git"
+        },
+        {
+          "id": 5,
+          "title": "2021 - present",
+          "info": "Freelance - Frontend Developer",
+          "content": "React JS, Next JS, Pure JS, HTML5, CSS3, Bootstrap 5, SASS, Webpack, Git"
         }
       ]
     },
@@ -65,6 +71,12 @@
           "title": "2017 - 2020",
           "info": "Hook - Frontend Developer",
           "content": "React JS, Pure JS, jQuery, HTML5, CSS3, Bootstrap 4, SASS, Webpack, Material-UI, Git"
+        },
+        {
+          "id": 5,
+          "title": "2021 - առ այսօր",
+          "info": "Ֆրիլանս - Frontend Developer",
+          "content": "React JS, Next JS, Pure JS, HTML5, CSS3, Bootstrap 5, SASS, Webpack, Git"
         }
       ]
     }
@@ -185,57 +197,57 @@
     "en": {
       "title": "Skills",
       "devTitle": "Development",
-      "desTitle":"Design",
-      "langTitle":"Language"
+      "desTitle": "Design",
+      "langTitle": "Language"
     },
     "am": {
       "title": "Հմտություններ",
       "devTitle": "Ծրագրավորում",
-      "desTitle":"Դիզայն",
-      "langTitle":"Լեզու"
+      "desTitle": "Դիզայն",
+      "langTitle": "Լեզու"
     }
   },
-  "lang":{
-    "en":{
-      "lng":[
+  "lang": {
+    "en": {
+      "lng": [
         {
-          "id":"1",
-          "title":"Armenian",
-          "know":"Native"
+          "id": "1",
+          "title": "Armenian",
+          "know": "Native"
         },
         {
-          "id":"2",
-          "title":"Russian",
-          "know":"Advanced"
+          "id": "2",
+          "title": "Russian",
+          "know": "Advanced"
         },
         {
-          "id":"3",
-          "title":"English",
-          "know":"Intermediate"
+          "id": "3",
+          "title": "English",
+          "know": "Intermediate"
         }
       ]
     },
-    "am":{
-      "lng":[
+    "am": {
+      "lng": [
         {
-          "id":"1",
-          "title":"Հայերեն",
-          "know":"Մայրենի"
+          "id": "1",
+          "title": "Հայերեն",
+          "know": "Մայրենի"
         },
         {
-          "id":"2",
-          "title":"Ռուսերեն",
-          "know":"Լավ"
+          "id": "2",
+          "title": "Ռուսերեն",
+          "know": "Լավ"
         },
         {
-          "id":"3",
-          "title":"Անգլերեն",
-          "know":"Միջին"
+          "id": "3",
+          "title": "Անգլերեն",
+          "know": "Միջին"
         }
       ]
     }
   },
-  "skilldev":[
+  "skilldev": [
     {
       "id": 1,
       "label": "html5",
@@ -284,7 +296,6 @@
       "startpercent": 0,
       "endpercent": 75
     },
-
     {
       "id": 9,
       "label": "git",
@@ -298,7 +309,7 @@
       "endpercent": 38
     }
   ],
-  "skilldesign":[
+  "skilldesign": [
     {
       "id": 1,
       "label": "Photoshop",
