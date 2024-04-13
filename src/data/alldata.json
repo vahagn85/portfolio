@@ -129,9 +129,9 @@
       },
       {
         "id": 2,
-        "photo": "worldeagles",
-        "name": "World Eagles",
-        "url": "https://worldeagles.info/"
+        "photo": "nakedcost",
+        "name": "Naked cost",
+        "url": "https://nakedcost.com/"
       },
       {
         "id": 3,
@@ -141,33 +141,40 @@
       },
       {
         "id": 4,
+        "photo": "worldeagles",
+        "name": "World Eagles",
+        "url": "https://worldeagles.info/"
+      },
+      {
+        "id": 5,
+        "photo": "countriescost",
+        "name": "Countries cost",
+        "url": "https://countriescost.com/"
+      },
+
+      {
+        "id": 6,
         "photo": "exco",
         "name": "Exco",
         "url": "http://exco.am/"
       },
       {
-        "id": 5,
+        "id": 7,
+        "photo": "petsboon",
+        "name": "Pets Boon",
+        "url": "https://petsboon.com/"
+      },
+      {
+        "id": 8,
         "photo": "guess-animal-sound",
         "name": "Guess the animal by sound!",
         "url": "https://play.google.com/store/apps/details?id=animals.worldeagles.eagles_app&hl=ru&gl=US"
       },
       {
-        "id": 6,
+        "id": 9,
         "photo": "armfc",
         "name": "Arm National Team",
         "url": "https://lori-fc.firebaseapp.com/"
-      },
-      {
-        "id": 7,
-        "photo": "schoolofwinners",
-        "name": "School of winners",
-        "url": "https://schoolofwinners.am/ru/"
-      },
-      {
-        "id": 8,
-        "photo": "vatama",
-        "name": "VaTaMa",
-        "url": "http://vatama.ru/"
       }
     ]
   },
@@ -178,7 +185,7 @@
       "dev": "Frontend Developer",
       "cv": "Download CV",
       "contactMe": "Contact me",
-      "tel": "Phone number: 055 77 77 05",
+      "tel": "Phone number: 043 22 15 50",
       "email": "Emile",
       "social": "Social"
     },
@@ -188,7 +195,7 @@
       "dev": "Frontend Ծրագրավորող",
       "cv": "Բեռնել CV",
       "contactMe": "Իմ Կոնտակտները",
-      "tel": "Հեռ․: 055 77 77 05",
+      "tel": "Հեռ․: 043 22 15 50",
       "email": "Է-փոստ",
       "social": "Սոց․"
     }
