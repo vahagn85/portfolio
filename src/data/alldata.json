@@ -40,8 +40,8 @@
         {
           "id": 5,
           "title": "2021 - present",
-          "info": "Freelance - Frontend Developer",
-          "content": "React JS, Next JS, Pure JS, HTML5, CSS3, Bootstrap 5, SASS, Webpack, Git"
+          "info": "Armspider - Frontend Developer",
+          "content": "React JS, Next JS, Pure JS, TS, HTML5, CSS3, Bootstrap, SASS, Webpack, Git, Redux, Zustand, Tailwind CSS, shadcn/ui, CI/CD"
         }
       ]
     },
@@ -75,8 +75,8 @@
         {
           "id": 5,
           "title": "2021 - առ այսօր",
-          "info": "Ֆրիլանս - Frontend Developer",
-          "content": "React JS, Next JS, Pure JS, HTML5, CSS3, Bootstrap 5, SASS, Webpack, Git"
+          "info": "Armspider - Frontend Developer",
+          "content": "React JS, Next JS, Pure JS, TS, HTML5, CSS3, Bootstrap, SASS, Webpack, Git, Redux, Zustand, Tailwind CSS, shadcn/ui, CI/CD"
         }
       ]
     }
@@ -94,6 +94,17 @@
           "id": 2,
           "title": "2003 - 2009",
           "info": "YSU - Mathematics and Mechanic"
+        },
+        {
+          "id": 3,
+          "title": "2024 - 2025",
+          "info": "RS School - JS / Front-end EN Course",
+          "certificate": "https://app.rs.school/certificate/bavq1t8i/"
+        },
+        {
+          "id": 4,
+          "title": "2025 - present",
+          "info": "RS School - React Course"
         }
       ]
     },
@@ -109,6 +120,17 @@
           "id": 2,
           "title": "2003 - 2009",
           "info": "ԵՊՀ - Մաթեմատիկա և Մեխանիկա"
+        },
+        {
+          "id": 3,
+          "title": "2024 - 2025",
+          "info": "RS School - JS / Front-end EN Course",
+          "certificate": "https://app.rs.school/certificate/bavq1t8i/"
+        },
+        {
+          "id": 4,
+          "title": "2025 - առ այսօր",
+          "info": "RS School - React Course"
         }
       ]
     }
@@ -269,15 +291,15 @@
     },
     {
       "id": 3,
-      "label": "js",
+      "label": "js, ts",
       "startpercent": 0,
-      "endpercent": 62
+      "endpercent": 74
     },
     {
       "id": 4,
       "label": "react",
       "startpercent": 0,
-      "endpercent": 69
+      "endpercent": 83
     },
     {
       "id": 5,
@@ -287,9 +309,9 @@
     },
     {
       "id": 6,
-      "label": "react native",
+      "label": "redux, zustand",
       "startpercent": 0,
-      "endpercent": 40
+      "endpercent": 65
     },
     {
       "id": 7,
@@ -299,19 +321,19 @@
     },
     {
       "id": 8,
-      "label": "sass",
+      "label": "Tailwind CSS, sass",
       "startpercent": 0,
-      "endpercent": 75
+      "endpercent": 73
     },
     {
       "id": 9,
       "label": "git",
       "startpercent": 0,
-      "endpercent": 26
+      "endpercent": 33
     },
     {
       "id": 10,
-      "label": "Webpack",
+      "label": "Webpack, Vite",
       "startpercent": 0,
       "endpercent": 38
     }
