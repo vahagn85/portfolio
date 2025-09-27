@@ -1,15 +1,15 @@
 {
   "main.css": "/portfolio/static/css/main.0d6cc7a7.chunk.css",
-  "main.js": "/portfolio/static/js/main.313d39b2.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.313d39b2.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.c4f7e6d1.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.c4f7e6d1.chunk.js.map",
   "static/js/1.d6049764.chunk.js": "/portfolio/static/js/1.d6049764.chunk.js",
   "static/js/1.d6049764.chunk.js.map": "/portfolio/static/js/1.d6049764.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
   "static/media/bg.jpg": "/portfolio/static/media/bg.939ecb2d.jpg",
   "static/media/vahagn-photo.jpg": "/portfolio/static/media/vahagn-photo.fe04134d.jpg",
-  "static/media/vahagn-am.pdf": "/portfolio/static/media/vahagn-am.77269160.pdf",
-  "static/media/vahagn-en.pdf": "/portfolio/static/media/vahagn-en.c8d18e87.pdf",
+  "static/media/vahagn-am.pdf": "/portfolio/static/media/vahagn-am.4646a9b5.pdf",
+  "static/media/vahagn-en.pdf": "/portfolio/static/media/vahagn-en.2e814091.pdf",
   "static/media/stylesheet.css": "/portfolio/static/media/SFProText-Semibold.211b9d52.woff2",
   "static/media/armfc-web.jpg": "/portfolio/static/media/armfc-web.b569fb5e.jpg",
   "static/media/countriescost-web.jpg": "/portfolio/static/media/countriescost-web.bdc60b47.jpg",
@@ -24,6 +24,6 @@
   "static/media/worldeagles-web.jpg": "/portfolio/static/media/worldeagles-web.a3fcbe3e.jpg",
   "static/css/main.0d6cc7a7.chunk.css.map": "/portfolio/static/css/main.0d6cc7a7.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.bd4a68d3c515b8015c1474e99126df99.js": "/portfolio/precache-manifest.bd4a68d3c515b8015c1474e99126df99.js",
+  "precache-manifest.4621cd321b3a9c35cb4d0be0f8a74dc1.js": "/portfolio/precache-manifest.4621cd321b3a9c35cb4d0be0f8a74dc1.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
