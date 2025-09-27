@@ -103,8 +103,9 @@
         },
         {
           "id": 4,
-          "title": "2025 - present",
-          "info": "RS School - React Course"
+          "title": "2025",
+          "info": "RS School - React Course",
+          "certificate": "https://app.rs.school/certificate/p34lxptm"
         }
       ]
     },
@@ -129,8 +130,9 @@
         },
         {
           "id": 4,
-          "title": "2025 - առ այսօր",
-          "info": "RS School - React Course"
+          "title": "2025",
+          "info": "RS School - React Course",
+          "certificate": "https://app.rs.school/certificate/p34lxptm"
         }
       ]
     }
